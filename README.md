@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on
+- 🔭 I’m currently working on Pomocnik Studenta
 - 🌱 I’m currently learning C++ and Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on "work in progress"
+- 🤔 I’m looking for help with "work in progress"
+- 💬 Ask me about currently nothing
 - 📫 How to reach me: jziomek669@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: _
+- ⚡ Fun fact: none
 -->
