@@ -9,3 +9,4 @@
 * 📫 How to reach me: jziomek669@gmail.com
 * 😄 Pronouns: _
 * ⚡ Fun fact: none
+* 📚 Fork: [link](https://github.com/kuballa/GitCommitEmoji.md.git)
