@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-* 🔭 I’m currently working on Pomocnik Studenta
-* 🌱 I’m currently learning C++ and Python
+* 🔭 I’m currently working on Komis
+* 🌱 I’m currently learning C# and Python
 * 👯 I’m looking to collaborate on "work in progress"
 * 🤔 I’m looking for help with "work in progress"
 * 💬 Ask me about currently nothing
